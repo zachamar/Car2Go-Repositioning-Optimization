@@ -1,2 +1,3 @@
-# Optimization
-In this repository please find my decision analytics optimisation codes and reports
+
+# Car repositioning optimization using Gurobi
+This project used Gurobi to build a model that will minimize costs for Car2Go in San Siego
